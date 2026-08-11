@@ -2,9 +2,9 @@ React Admin Dashboard made with Material-UI components and React + Vite.js.
 
 ## Pages
 
-- [Dashboard](https://github.com/aloconcoc/minimal/)
-- [Users](https://github.com/aloconcoc/minimal/user)
-- [Products](https://github.com/aloconcoc/minimal/products)
-- [Blog](https://github.com/aloconcoc/minimal/blog)
-- [Sign in](https://github.com/aloconcoc/minimal/sign-in)
-- [Not found](https://github.com/aloconcoc/minimal/404)
+- [Dashboard](https://minimal-8k1e.onrender.com/)
+- [Users](https://minimal-8k1e.onrender.com/user)
+- [Products](https://minimal-8k1e.onrender.com/products)
+- [Blog](https://minimal-8k1e.onrender.com/blog)
+- [Sign in](https://minimal-8k1e.onrender.com/sign-in)
+- [Not found](https://minimal-8k1e.onrender.com/404)
